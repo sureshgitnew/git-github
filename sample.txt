@@ -1,6 +1,0 @@
-Hellooooooo sample file
-
-
-1.point21
-2.point32
-git****************
