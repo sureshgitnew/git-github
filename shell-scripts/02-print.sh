@@ -1,2 +1,8 @@
 #!/bin/bash
-echo HELLO
+
+
+
+echo Hello
+
+echo Hello
+echo hello
