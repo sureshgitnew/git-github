@@ -17,6 +17,8 @@ echo next
 #new color (\e) [\e]
 echo -e "Hai\nBye"
 echo -e "Hai\t\t\t\tBye"
+echo -e "\e[34;42magenta on green\e[\0m"
+echo Hello color disable
 
 
 
