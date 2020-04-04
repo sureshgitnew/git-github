@@ -1,13 +1,12 @@
 - name: play1
   hosts: all
   tasks:
-    -name: check ping 1
+    - name: check ping 1
       ping:
-
 
 
 - name: play2
   hosts: all
   tasks:
-    -name: Run uptime
+    - name: Run uptime
       shell: uptime
